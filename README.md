@@ -8,3 +8,11 @@
 
 🎯 My goal is to become a skilled Software Developer by continuously learning, building, and improving.
 
+## 🛠️ Technologies & Skills
+
+- **Languages:** Java, Python
+- **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming
+- **Database:** SQL
+- **Web Development:** HTML, CSS, JavaScript
+- **Tools:** Git, GitHub
+
