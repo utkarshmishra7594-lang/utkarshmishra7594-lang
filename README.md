@@ -30,3 +30,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshmishra7594-lang&layout=compact&theme=github_dark)
 
+## 👨‍💻 Coding Profiles
+
+- [LeetCode](https://leetcode.com/u/2tAN1z1zAi/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/profile/utkarshmindvx)
